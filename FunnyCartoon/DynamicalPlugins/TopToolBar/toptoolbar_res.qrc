@@ -1,0 +1,14 @@
+<RCC>
+    <qresource prefix="/images">
+        <file alias="toolbtn0">images/file_new.png</file>
+        <file alias="toolbtn1">images/file_open.png</file>
+        <file alias="toolbtn2">images/file_save.png</file>
+        <file alias="toolbtn3">images/edit_cut.png</file>
+        <file alias="toolbtn4">images/edit_copy.png</file>
+        <file alias="toolbtn5">images/edit_paste.png</file>
+        <file alias="toolbtn6">images/edit_undo.png</file>
+        <file alias="toolbtn7">images/edit_redo.png</file>
+        <file alias="onion">images/Onion.png</file>
+        <file alias="onion_on">images/Onion_on.png</file>
+    </qresource>
+</RCC>

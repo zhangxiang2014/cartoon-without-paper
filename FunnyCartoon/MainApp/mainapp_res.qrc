@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/qss">
+        <file alias="skin">qss/skin.css</file>
+    </qresource>
+    <qresource prefix="/images">
+        <file alias="mainapp_background">images/mainapp_background.png</file>
+    </qresource>
+</RCC>

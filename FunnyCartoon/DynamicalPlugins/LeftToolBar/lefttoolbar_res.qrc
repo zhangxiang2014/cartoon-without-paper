@@ -1,0 +1,53 @@
+<RCC>
+    <qresource prefix="/images">
+        <file alias="plus">images/plus.png</file>
+        <file alias="minus">images/minus.png</file>
+        <file alias="draw_lib">images/draw_lib.png</file>
+        <file alias="material_lib">images/material_lib.png</file>
+        <file alias="copy_frame">images/box.png</file>
+        <file alias="book_in">images/book_in.png</file>
+        <file alias="book_out">images/book_out.png</file>
+        <file alias="left_arrow">images/arrow_left.png</file>
+        <file alias="right_arrow">images/arrow_right.png</file>
+        <file alias="double_left_arrow">images/double_arrow_left.png</file>
+        <file alias="double_right_arrow">images/double_arrow_right.png</file>
+        <file alias="book_sys">images/book_sys.png</file>
+        <file alias="book_usr">images/book_usr.png</file>
+        <file alias="book_disabled">images/book_disabled.png</file>
+        <file alias="plus_circle">images/plus_circle.png</file>
+        <file alias="minus_circle">images/minus_circle.png</file>
+        <file alias="book_head_background">images/book_head_background.png</file>
+        <file alias="book_body_background">images/book_body_background.png</file>
+        <file alias="book_foot_background">images/book_foot_background.png</file>
+        <file alias="mix_color">images/mix_color.png</file>
+        <file alias="empty_lib">images/empty_lib.png</file>
+    </qresource>
+    <qresource prefix="/images/scroll">
+        <file alias="scroll_up_arrow">images/scroll/1.png</file>
+        <file alias="scroll_up_arrow_hover">images/scroll/2.png</file>
+        <file alias="scroll_down_arrow">images/scroll/3.png</file>
+        <file alias="scroll_down_arrow_hover">images/scroll/4.png</file>
+    </qresource>
+    <qresource prefix="/images/pen_shapes">
+        <file alias="pen_shape0">images/pen_shapes/pen_shape0.png</file>
+        <file alias="pen_shape1">images/pen_shapes/pen_shape1.png</file>
+        <file alias="pen_shape2">images/pen_shapes/pen_shape2.png</file>
+        <file alias="pen_shape3">images/pen_shapes/pen_shape3.png</file>
+        <file alias="pen_shape4">images/pen_shapes/pen_shape4.png</file>
+        <file alias="pen_shape5">images/pen_shapes/pen_shape5.png</file>
+        <file alias="pen_shape6">images/pen_shapes/pen_shape6.png</file>
+        <file alias="pen_shape7">images/pen_shapes/pen_shape7.png</file>
+        <file alias="pen_shape8">images/pen_shapes/pen_shape8.png</file>
+        <file alias="pen_shape9">images/pen_shapes/pen_shape9.png</file>
+    </qresource>
+    <qresource prefix="/images/draw_tools">
+        <file alias="tool0">images/draw_tools/0.png</file>
+        <file alias="tool1">images/draw_tools/1.png</file>
+        <file alias="tool2">images/draw_tools/2.png</file>
+        <file alias="tool3">images/draw_tools/3.png</file>
+        <file alias="tool4">images/draw_tools/4.png</file>
+        <file alias="tool5">images/draw_tools/5.png</file>
+        <file alias="tool6">images/draw_tools/6.png</file>
+        <file alias="tool7">images/draw_tools/7.png</file>
+    </qresource>
+</RCC>

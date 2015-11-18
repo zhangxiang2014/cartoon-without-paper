@@ -1,6 +1,5 @@
 # cartoon-without-paper
-chinese:
-如果想要使用该软件，你需要使用qt5.0和msv2013
+如果想要使用该软件，你最好使用qt5.5和msv2013
 1.首先用pencli项目(这是关于绘图模块的）生成release/debug模式下的dll文件：app_draw.dll
 2.用videoeditplugins生成release/debug模式下的dll文件：videoeditplugins.dll
 3.用funnycartoon项目生成release/debug模式下的dll文件：lefttoolbar.dll和toptoolbal.dll，两个dll文件在生成的项目文件下的plugin文件夹下

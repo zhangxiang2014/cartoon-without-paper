@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<material-lib>
+
+    <template path="resources/templates/animals" size="40">
+    </template>
+
+    <template path="resources/templates/accessories" size="29">
+    </template>
+
+    <template path="resources/templates/shapes" size="45">
+    </template>
+
+</material-lib>

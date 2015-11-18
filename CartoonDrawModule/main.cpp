@@ -12,7 +12,6 @@ int main(int argc, char *argv[])
     MainWindow w;
 //    w.setCentralWidget(w.testButton);
     w.show();
-    w.hide();
     w.pencil->show();
     return app.exec();
 }
